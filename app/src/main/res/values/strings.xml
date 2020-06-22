@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="moallem">Moallem</string>
+    <string name="internet_check">Please check your internet connection</string>
+</resources>
